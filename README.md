@@ -30,3 +30,7 @@ npm start
 # Demo
 
 <img src="./src/Demo/demo.gif">
+
+# Link
+
+[infinite scroll - Yonghun Lee](https://velog.io/@yh1120/Infinite-Scroll)
