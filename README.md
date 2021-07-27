@@ -1,7 +1,7 @@
 # 구현 목록
 
-- [x] Box 컴포넌트  
-- [x] InfinityScroll  
+- [x] Box 컴포넌트
+- [x] InfinityScroll
 - [x] Fetch API
 
 <br/>
@@ -30,3 +30,7 @@ npm start
 # Demo
 
 <img src="./src/Demo/demo.gif">
+
+# Link
+
+[infinite scroll - Yonghun Lee](https://velog.io/@yh1120/Infinite-Scroll)
