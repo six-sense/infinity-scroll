@@ -9,7 +9,7 @@ const BoxLayout = styled.div`
   box-sizing: border-box;
   border-radius: 20px;
   padding: 20px;
-  margin-bottom:12px;
+  margin-bottom: 12px;
 `;
 
 const TextLayout = styled.div`
@@ -23,10 +23,10 @@ const TextLayout = styled.div`
   font-size: 18px;
 `;
 
-function Box() {
-  const id = 0;
-  const email = "yonghun1120@gmail.com";
-  const body = "testtestetst";
+function Box({ id, email, body }) {
+  // const id = 0;
+  // const email = "yonghun1120@gmail.com";
+  // const body = "testtestetst";
   return (
     <div>
       <BoxLayout>
@@ -50,7 +50,6 @@ function Box() {
         </TextLayout>
       </BoxLayout>
     </div>
-    // <div><div>Content Id</div></div>
   );
 }
 
