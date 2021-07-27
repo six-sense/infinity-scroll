@@ -22,6 +22,7 @@ const TextLayout = styled.div`
 const TextBodyLayout = styled.div`
   width: 100%;
   height: auto;
+  min-height: 63px;
   display: flex;
   justify-content: flex-start;
   align-items: ${(props) => props.ai};
