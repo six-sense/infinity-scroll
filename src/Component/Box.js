@@ -13,7 +13,6 @@ const BoxLayout = styled.div`
 `;
 
 const TextLayout = styled.div`
-  // background:green;
   width: 100%;
   height: ${(props) => props.ht}px;
   display: flex;
@@ -24,9 +23,6 @@ const TextLayout = styled.div`
 `;
 
 function Box({ id, email, body }) {
-  // const id = 0;
-  // const email = "yonghun1120@gmail.com";
-  // const body = "testtestetst";
   return (
     <div>
       <BoxLayout>
