@@ -1,7 +1,7 @@
 # 구현 목록
 
-- [x] Box 컴포넌트  
-- [x] InfinityScroll  
+- [x] Box 컴포넌트
+- [x] InfinityScroll
 - [x] Fetch API
 
 <br/>
